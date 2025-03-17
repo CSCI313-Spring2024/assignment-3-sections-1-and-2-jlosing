@@ -21,4 +21,4 @@ wifi: true,
 laundry: false,
 };
 }
-}
+
